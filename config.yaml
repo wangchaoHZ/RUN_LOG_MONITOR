@@ -1,0 +1,7 @@
+telnet:
+  ip: "198.157.0.51"
+  port: 6666
+
+log:
+  dir: "./logs"
+  keep_days: 3
