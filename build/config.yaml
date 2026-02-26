@@ -4,4 +4,4 @@ telnet:
 
 log:
   dir: "./logs"
-  keep_days: 3
+  keep_days: 7
